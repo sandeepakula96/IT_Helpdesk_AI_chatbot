@@ -1,0 +1,8 @@
+anthropic
+streamlit
+voyageai
+chromadb
+mcp
+uvicorn
+ddgs
+python-dotenv

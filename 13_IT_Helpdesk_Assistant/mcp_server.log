@@ -1,0 +1,223 @@
+[11/19/26 13:12:07] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             96318fb72fb14493973                               
+                             1ec29833f6347                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             96318fb72fb144939731ec29833                       
+                             f6347                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             bbf3cf332bac429487c                               
+                             9a4a7c14c6029                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             bbf3cf332bac429487c9a4a7c14                       
+                             c6029                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             acaa17e46c244191ac2                               
+                             c7ddc5e0b2563                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             acaa17e46c244191ac2c7ddc5e0                       
+                             b2563                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             5ec767e09f42431aaf1                               
+                             a76d7d7e2c8b7                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             5ec767e09f42431aaf1a76d7d7e                       
+                             2c8b7                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             1ec5ee153d204487948                               
+                             8e41da42286b2                                     
+                    INFO     Tool 'create_support_ticket'         server.py:450
+                             rejected arguments: ['priority']                  
+                    INFO     Terminating session:        streamable_http.py:855
+                             1ec5ee153d2044879488e41da42                       
+                             286b2                                             
+[11/19/26 13:13:13] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             ad5a8a6033a04e6f8ea                               
+                             5b1bb4742bfe8                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             ad5a8a6033a04e6f8ea5b1bb474                       
+                             2bfe8                                             
+[11/19/26 13:13:27] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             0f9f9ae7d9844a67b0f                               
+                             7e15c15012f57                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             0f9f9ae7d9844a67b0f7e15c150                       
+                             12f57                                             
+[11/19/26 13:13:28] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             2c0dc452a0904dd4b72                               
+                             bcc99c73d3a69                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             2c0dc452a0904dd4b72bcc99c73                       
+                             d3a69                                             
+[11/19/26 13:14:31] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             22a0e6819a8b466bb7b                               
+                             c11357d415165                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             22a0e6819a8b466bb7bc11357d4                       
+                             15165                                             
+[11/19/26 13:15:55] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             6101fb873cfe4372bc5                               
+                             2209a577e767e                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             6101fb873cfe4372bc52209a577                       
+                             e767e                                             
+[11/19/26 13:43:16] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+[11/19/26 13:43:17] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             82b4d7fc551a48ebb99                               
+                             75645bfb09dce                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             82b4d7fc551a48ebb9975645bfb                       
+                             09dce                                             
+[11/19/26 13:44:21] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             17d3fc18f59a49a89f3                               
+                             e32e6114ca269                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             17d3fc18f59a49a89f3e32e6114                       
+                             ca269                                             
+[11/19/26 13:50:55] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+[11/19/26 13:50:56] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             d8d1c9870f0c441c8b3                               
+                             07469a6f64246                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             d8d1c9870f0c441c8b307469a6f                       
+                             64246                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             69acba14407646ab81a                               
+                             7252ea6d0ffa9                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             69acba14407646ab81a7252ea6d                       
+                             0ffa9                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             f39a6772b2484802bd2                               
+                             9e761c3db3995                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             f39a6772b2484802bd29e761c3d                       
+                             b3995                                             
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             e0a4befa7c3e4d21a12                               
+                             2482d48ee68a2                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             e0a4befa7c3e4d21a122482d48e                       
+                             e68a2                                             
+[11/19/26 13:51:08] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             1c7cb64939064377bfd                               
+                             60acdbeccd22f                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             1c7cb64939064377bfd60acdbec                       
+                             cd22f                                             
+[11/19/26 13:51:10] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             baac9faecb0043cfab9                               
+                             e786fc63cb8e7                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             baac9faecb0043cfab9e786fc63                       
+                             cb8e7                                             
+[11/19/26 13:53:23] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             00e00d5ad9e64ab2866                               
+                             51589845603c3                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             00e00d5ad9e64ab286651589845                       
+                             603c3                                             
+[11/19/26 13:56:11] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             489abbab6c8640cf867                               
+                             4f0bef7ad7ca3                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             489abbab6c8640cf8674f0bef7a                       
+                             d7ca3                                             
+[11/19/26 13:56:12] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             66034ca7e39e48d1aea                               
+                             62c1ce7721241                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             66034ca7e39e48d1aea62c1ce77                       
+                             21241                                             
+[11/19/26 13:57:34] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+[11/19/26 13:57:35] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             8099b2783cec4fb0ae9                               
+                             fbe9898c7954c                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             8099b2783cec4fb0ae9fbe9898c                       
+                             7954c                                             
+[11/19/26 13:58:03] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+                    INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             07d66934b9024e6b929                               
+                             4093713939e72                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             07d66934b9024e6b92940937139                       
+                             39e72                                             
+[11/19/26 13:58:38] INFO     StreamableHTTP      streamable_http_manager.py:162
+                             session manager                                   
+                             started                                           
+[11/19/26 13:58:39] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             a6a58d88eecc4f69884                               
+                             508eb80116588                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             a6a58d88eecc4f69884508eb801                       
+                             16588                                             
+[11/19/26 13:59:40] INFO     Created new         streamable_http_manager.py:325
+                             transport with                                    
+                             session ID:                                       
+                             effd76656ea444ac9ea                               
+                             ca6a8cf1cef15                                     
+                    INFO     Terminating session:        streamable_http.py:855
+                             effd76656ea444ac9eaca6a8cf1                       
+                             cef15                                             
